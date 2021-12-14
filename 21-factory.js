@@ -11,4 +11,4 @@ const pessoaA = Pessoa ('Matheus', 'Grolli')
 const pessoaB = Pessoa ('José', 'Teste')
 
 console.log (pessoaA, pessoaB)
-console.log (pessoaA.nomeCompleto)
+console.log ("NOME COMPLETO PESSOA A", pessoaA.nomeCompleto)
